@@ -1,0 +1,6 @@
+tabset tab .content {
+  display: none; }
+  tabset tab .content.active {
+    display: block; }
+
+/*# sourceMappingURL=tabset.css.map */

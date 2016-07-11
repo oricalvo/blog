@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEI,mBAAS;EACP,OAAO,EAAE,IAAI;EAEb,0BAAS;IACP,OAAO,EAAE,KAAK",
+"sources": ["tabset.scss"],
+"names": [],
+"file": "tabset.css"
+}

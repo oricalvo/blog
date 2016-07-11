@@ -1,0 +1,9 @@
+<h1>My First Angular 2 App</h1>
+
+<button (click)="addTab()">Add Tab</button>
+
+<tabset [activeTabIndex]="activeTabIndex">
+    <tab *ngFor="let tab of tabs" [title]="tab.title">
+        <span>Content {{tab.id}}</span>
+    </tab>
+</tabset>
